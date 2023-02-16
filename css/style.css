@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+section{
+    background-color: blanchedalmond;
+}
+h1{
+    background-color: chocolate;
+    color: aliceblue;
+}
+#raz{
+    background-color: burlywood;
+    color: brown;
+}
+h2{
+    background-color: rgb(245, 209, 161);
+    color: coral;
+}
+.dwa{
+    color: maroon;
+    background-color: whitesmoke;
+}
+.list1{
+    background-color: rgba(100, 149, 237, 80%);
+}
+.list2{
+    background-color: rgba(100, 149, 237, 60%);
+}
+.list3{
+    background-color: rgba(100, 149, 237, 40%);
+}
+.list4{
+    background-color: rgba(100, 149, 237, 25%);
+}
+.list5{
+    background-color: rgba(100, 149, 237, 15%);
+}
+ol{
+    background-color: chartreuse;
+}
